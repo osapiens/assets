@@ -2138,7 +2138,7 @@ select[multiple]:focus option:checked {
   justify-content: space-between;
   padding: 20px 0;
   color: #ffffff;
-  background: #1a1a1a !important;
+  background-color: #1a1a1a !important;
   width: 200px;
   -webkit-transition: width 0.6s ease;
   transition: width 0.6s ease;
@@ -2239,7 +2239,7 @@ select[multiple]:focus option:checked {
 .nav-sub {
   position: relative;
   padding-top: 43px;
-  background: #4BC676;
+  background-color: #4BC676;
   color: #FFFFFF;
   width: 200px;
   -webkit-transition: width 0.6s ease;
