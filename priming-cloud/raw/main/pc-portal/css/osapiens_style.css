@@ -2082,6 +2082,10 @@ select[multiple]:focus option:checked {
   flex-direction: column;
 }
 
+#mainWrapper .news{
+  background: ffffff
+}
+
 .navigation.hidden~#mainWrapper {
   left: 0px;
 }
