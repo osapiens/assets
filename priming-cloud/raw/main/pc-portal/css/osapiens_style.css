@@ -3212,3 +3212,10 @@ table.grid td {
 .hide {
     display: none;
 }
+
+.news-header-title:after {
+  content:'osapiens'; 
+  visibility: visible;
+  display: block;
+  position: absolute;
+}
